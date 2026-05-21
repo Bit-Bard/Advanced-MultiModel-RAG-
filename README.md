@@ -149,6 +149,7 @@ It is not a simple chatbot. It is a complete **AI-powered document intelligence 
 | **Session Memory** | Full conversation history maintained across turns |
 | **Custom UI** | Particle-animated dark-mode Streamlit interface |
 
+<p>Temporary LLM API key is disabled due to API limit</p>
 ---
 
 ## Folder Structure
