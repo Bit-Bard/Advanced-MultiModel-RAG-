@@ -28,6 +28,8 @@
 
 ## What Is This?
 
+<img src="MultiModel RAG UI.png" alt="OcuScan AI Interface" width="90%" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.4);"/>
+
 **NeuroRAG** is a production-grade **Multimodal RAG** system that can read PDFs, scanned images, Word documents, and plain text — then answer questions about them with full citations, using both the uploaded knowledge base and live internet search.
 
 It is not a simple chatbot. It is a complete **AI-powered document intelligence pipeline** built with state-of-the-art components.
